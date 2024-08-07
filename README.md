@@ -11,7 +11,7 @@ The MARIDA dataset, used as a benchmark for developing and evaluating machine le
 **Dataset Directory:**
 [Access MARIDA Dataset](https://marida-dataset-link)
 
-![Sample Dataset Image](path_to_your_image_on_github.jpg)
+![Sample Dataset Image](/src/MARIDA.png)
 
 ## Methodology
 
@@ -28,21 +28,21 @@ Three Random Forest models were developed with different configurations:
    - Precision: 0.23
    - Recall: 0.39
    - F1-Score: 0.29
-   - ![Performance Metrics - 100 Trees](path_to_100_trees_image.jpg)
+   - ![Performance Metrics - 100 Trees](/src/100%20decision%20tree.png)
 
 2. **Random Forest with 500 Decision Trees:**
    - Accuracy: 99.52%
    - Precision: 0.0
    - Recall: 0.90
    - F1-Score: 0.01
-   - ![Performance Metrics - 500 Trees](path_to_500_trees_image.jpg)
+   - ![Performance Metrics - 500 Trees](/src/500%20decision%20tree.png)
 
 3. **Random Forest with 3500 Decision Trees:**
    - Accuracy: 99.48%
    - Precision: 0.0
    - Recall: 0.91
    - F1-Score: 0.01
-   - ![Performance Metrics - 3500 Trees](path_to_3500_trees_image.jpg)
+   - ![Performance Metrics - 3500 Trees](/src/3500%20decision%20tree.png)
 
 ### Feature Engineering
 
