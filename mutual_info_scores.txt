@@ -1,0 +1,11 @@
+Mutual Information for Band1: 0
+Mutual Information for Band2: 9.938543916732101e-06
+Mutual Information for Band3: 0
+Mutual Information for Band4: 0.0002468588922859283
+Mutual Information for Band5: 0
+Mutual Information for Band6: 0.00013153177593849819
+Mutual Information for Band7: 0.00012388717551203854
+Mutual Information for Band8: 0.0003635467645377588
+Mutual Information for Band9: 0.00011893680962060671
+Mutual Information for Band10: 0.0002484861425458007
+Mutual Information for Band11: 3.312874154737244e-05
