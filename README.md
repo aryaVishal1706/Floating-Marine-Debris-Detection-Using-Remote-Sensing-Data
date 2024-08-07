@@ -90,24 +90,23 @@ The use of SMOTE and advanced feature indices significantly improved marine debr
 
 1. Preprocess the dataset:
     ```sh
-    python preprocess.py
+    make_Dataset.ipnyb
     ```
 2. Train the model:
     ```sh
-    python train.py
+      Random_Forest_100.ipnyb
+      Random_Forest_500.ipnyb
+      Random_Forest_3500.ipnyb
     ```
 3. Evaluate the model:
     ```sh
-    python evaluate.py
+    Evaluation_100_Random_Forest.ipynb
+    Evaluation_500_Random_Forest.ipynb
+    Evaluation_3500_Random_Forest.ipynb
     ```
 
 ## Jupyter Notebook
-
-You can interact with the project using the provided Jupyter notebook. Open `Floating_Marine_Debris_Detection.ipynb` in Jupyter Notebook to explore the code and results interactively.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+we have attached Jupyter Notebook So you can interact Easily.
 
 ## License
 
@@ -119,13 +118,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   - Computer Science Engineering, Nirma University, Ahmedabad, India
   - Email: 21bce081@nirmauni.ac.in
 
-- **Dr. Jai Prakash Verma**
-  - Associate Professor, Computer Science Engineering Dept., Nirma University, Ahmedabad, India
-  - Email: jaiprakash.verma@nirmauni.ac.in
-
 - **Vishal Arya**
   - Computer Science Engineering, Nirma University, Ahmedabad, India
   - Email: 22bce501@nirmauni.ac.in
+
+- **Dr. Jai Prakash Verma**
+  - Associate Professor, Computer Science Engineering Dept., Nirma University, Ahmedabad, India
+  - Email: jaiprakash.verma@nirmauni.ac.in
 
 - **Dr. Madhuri Bhavsar**
   - Professor, Computer Science and Engineering Dept., Nirma University, Ahmedabad, India
