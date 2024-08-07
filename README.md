@@ -125,7 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Vishal Arya**
   - Computer Science Engineering, Nirma University, Ahmedabad, India
-  - Email: 22bce502@nirmauni.ac.in
+  - Email: 22bce501@nirmauni.ac.in
 
 - **Dr. Madhuri Bhavsar**
   - Professor, Computer Science and Engineering Dept., Nirma University, Ahmedabad, India
