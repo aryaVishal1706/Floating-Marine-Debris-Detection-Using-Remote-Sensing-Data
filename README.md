@@ -11,7 +11,7 @@ The MARIDA dataset, used as a benchmark for developing and evaluating machine le
 **Dataset Directory:**
 [Access MARIDA Dataset](https://marida-dataset-link)
 
-![Sample Dataset Image](/src/MARIDA.png)
+![Sample Dataset Image](path_to_your_image_on_github.jpg)
 
 ## Methodology
 
@@ -28,21 +28,21 @@ Three Random Forest models were developed with different configurations:
    - Precision: 0.23
    - Recall: 0.39
    - F1-Score: 0.29
-   - ![Performance Metrics - 100 Trees](/src/100%20decision%20tree.png)
+   - ![Performance Metrics - 100 Trees](path_to_100_trees_image.jpg)
 
 2. **Random Forest with 500 Decision Trees:**
    - Accuracy: 99.52%
    - Precision: 0.0
    - Recall: 0.90
    - F1-Score: 0.01
-   - ![Performance Metrics - 500 Trees](/src/500%20decision%20tree.png)
+   - ![Performance Metrics - 500 Trees](path_to_500_trees_image.jpg)
 
 3. **Random Forest with 3500 Decision Trees:**
    - Accuracy: 99.48%
    - Precision: 0.0
    - Recall: 0.91
    - F1-Score: 0.01
-   - ![Performance Metrics - 3500 Trees](/src/3500%20decision%20tree.png)
+   - ![Performance Metrics - 3500 Trees](path_to_3500_trees_image.jpg)
 
 ### Feature Engineering
 
@@ -52,7 +52,7 @@ Advanced feature indices such as NDVI (Normalized Difference Vegetation Index), 
 
 The performance of each model was evaluated based on precision, recall, and F1-score. The Random Forest model with 100 decision trees exhibited the best overall performance, achieving the highest accuracy and better precision and recall metrics compared to models with 500 and 3500 decision trees.
 
-| Metric      | Random Forest with 100  | Random Forest with 500 | Random Forest with 3500 |
+| Metric      | Random Forest with 100 | Random Forest with 500 | Random Forest with 3500 |
 |-------------|-------------------------|------------------------|-------------------------|
 | Precision   | 0.23                    | 0.0                    | 0.0                     |
 | Recall      | 0.39                    | 0.90                   | 0.91                    |
@@ -65,6 +65,71 @@ This study demonstrates the effectiveness of using the Random Forest algorithm c
 ## Conclusion
 
 The use of SMOTE and advanced feature indices significantly improved marine debris detection. Future research should focus on integrating additional relevant indices and optimizing model configurations to continue improving detection capabilities, supporting environmental conservation and marine management strategies.
+
+## Installation and Setup
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/yourusername/Floating-Marine-Debris-Detection.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd Floating-Marine-Debris-Detection
+    ```
+3. Create and activate a virtual environment:
+    ```sh
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+4. Install the required dependencies:
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+1. Preprocess the dataset:
+    ```sh
+    python preprocess.py
+    ```
+2. Train the model:
+    ```sh
+    python train.py
+    ```
+3. Evaluate the model:
+    ```sh
+    python evaluate.py
+    ```
+
+## Jupyter Notebook
+
+You can interact with the project using the provided Jupyter notebook. Open `Floating_Marine_Debris_Detection.ipynb` in Jupyter Notebook to explore the code and results interactively.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Authors
+
+- **Sahil Halpati**
+  - Computer Science Engineering, Nirma University, Ahmedabad, India
+  - Email: 21bce081@nirmauni.ac.in
+
+- **Dr. Jai Prakash Verma**
+  - Associate Professor, Computer Science Engineering Dept., Nirma University, Ahmedabad, India
+  - Email: jaiprakash.verma@nirmauni.ac.in
+
+- **Vishal Arya**
+  - Computer Science Engineering, Nirma University, Ahmedabad, India
+  - Email: 22bce502@nirmauni.ac.in
+
+- **Dr. Madhuri Bhavsar**
+  - Professor, Computer Science and Engineering Dept., Nirma University, Ahmedabad, India
+  - Email: madhuri.bhavsar@nirmauni.ac.in
 
 ## References
 
