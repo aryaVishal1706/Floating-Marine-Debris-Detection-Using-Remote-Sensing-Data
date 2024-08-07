@@ -28,21 +28,21 @@ Three Random Forest models were developed with different configurations:
    - Precision: 0.23
    - Recall: 0.39
    - F1-Score: 0.29
-   - ![Performance Metrics - 100 Trees](path_to_100_trees_image.jpg)
+   - ![Performance Metrics - 100 Trees](/src/100%20decision%20tree.png)
 
 2. **Random Forest with 500 Decision Trees:**
    - Accuracy: 99.52%
    - Precision: 0.0
    - Recall: 0.90
    - F1-Score: 0.01
-   - ![Performance Metrics - 500 Trees](path_to_500_trees_image.jpg)
+   - ![Performance Metrics - 500 Trees](/src/500%20decision%20tree.png)
 
 3. **Random Forest with 3500 Decision Trees:**
    - Accuracy: 99.48%
    - Precision: 0.0
    - Recall: 0.91
    - F1-Score: 0.01
-   - ![Performance Metrics - 3500 Trees](path_to_3500_trees_image.jpg)
+   - ![Performance Metrics - 3500 Trees](/src/3500%20decision%20tree.png)
 
 ### Feature Engineering
 
@@ -52,7 +52,7 @@ Advanced feature indices such as NDVI (Normalized Difference Vegetation Index), 
 
 The performance of each model was evaluated based on precision, recall, and F1-score. The Random Forest model with 100 decision trees exhibited the best overall performance, achieving the highest accuracy and better precision and recall metrics compared to models with 500 and 3500 decision trees.
 
-| Metric      | Random Forest with 100 | Random Forest with 500 | Random Forest with 3500 |
+| Metric      | Random Forest with 100  | Random Forest with 500 | Random Forest with 3500 |
 |-------------|-------------------------|------------------------|-------------------------|
 | Precision   | 0.23                    | 0.0                    | 0.0                     |
 | Recall      | 0.39                    | 0.90                   | 0.91                    |
