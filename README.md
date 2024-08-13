@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Floating Marine Debris Detection Using Remote Sensing Data
 
 ## Introduction
@@ -130,3 +131,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [MARIDA Dataset](https://marida-dataset-link)
 - [Synthetic Minority Over-sampling Technique (SMOTE)](https://smote-link)
+=======
+# Floating-Marine-Debris-Detection-Using-Remote-Sensing-Data
+>>>>>>> 85291c26698ab2871115131f3b32811503c6cfc8
