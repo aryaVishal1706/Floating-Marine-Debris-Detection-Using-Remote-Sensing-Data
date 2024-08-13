@@ -118,10 +118,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   - Computer Science Engineering, Nirma University, Ahmedabad, India
   - Email: 22bce501@nirmauni.ac.in
 
-- **Sahil Halpati**
-  - Computer Science Engineering, Nirma University, Ahmedabad, India
-  - Email: 21bce081@nirmauni.ac.in
-
 - **Dr. Jai Prakash Verma**
   - Associate Professor, Computer Science Engineering Dept., Nirma University, Ahmedabad, India
   - Email: jaiprakash.verma@nirmauni.ac.in
